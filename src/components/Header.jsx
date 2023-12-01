@@ -1,6 +1,6 @@
 import React from "react";
 
 export default function Header() {
-    return <h1>GKeeper</h1>
+    return <header> <h1>GKeeper</h1> </header>;
 };
 
